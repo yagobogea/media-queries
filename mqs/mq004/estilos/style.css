@@ -45,6 +45,18 @@ img {
     display: block;
 }
 
-#tablet, #print, #pc, #pc, #tv {
+#tablet{
+    display: none;
+}
+
+#print {
+    display: none;
+}
+
+#pc {
+    display: none;
+}
+
+#tv {
     display: none;
 }
